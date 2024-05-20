@@ -89,7 +89,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.test.iipsrv_api.apollo2_iipsrv_api</test>
+            <test>com.test.iipsrv_api.apollo3_iipsrv_api</test>
           </configuration>
         </plugin>
       </plugins>
